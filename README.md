@@ -20,7 +20,7 @@ AlterStore repositories are added through the client on your KaiOS device.
 
 1. Get this repo and put it somewhere on your computer.
 
-2. Copy your app (with manifest.webapp in the folder root) to the `apps` folder inside ☜(ﾟヮﾟ☜).
+2. Copy your apps (with manifest.webapp in the folder root) to the `apps` folder inside ☜(ﾟヮﾟ☜).
 
 3. Configure your `ALTERSTORE.json` manifest. See the wiki for more information.
 
