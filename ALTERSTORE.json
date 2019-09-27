@@ -1,0 +1,6 @@
+{
+  "compat_client_version": "v1",
+  "store_owners": ["YourNameHere", "AnotherNameHere"],
+  "store_description": "An AlterStore repository.",
+  "store_restricted": ["non_free"]
+} 
